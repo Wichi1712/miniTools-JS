@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+}
+
+#title {
+	background-color: #aaccaa;
+	margin: 1em;
+	padding: 0em;
+	width: 90%;
+	display: inherit;
+	
+	height: 60px;
+}
+
+#list {
+	background-color: #33cc55;
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 1em;
+	height: 400px;
+	width: 100px;
+}
+
+#content {
+	background-color: #88ffaa;
+	height: 400px;
+	width: 80%;
+	margin: 5px 0px 0px 130px;
+}
+
